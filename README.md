@@ -11,7 +11,7 @@ You can see the current progress of [our draft](//seleniumhq.github.io/docs),
 and help us out by sending a patch.
 
 Once this documentation reaches
-a state of relative stability and completeness,
+a state of relative stability and completeness Selenium testing,
 it will replace [the existing Selenium documentation](http://docs.seleniumhq.org/docs/),
 which is severely lagging
 behind the real state that Selenium is in.
